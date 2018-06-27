@@ -7,6 +7,7 @@ System.out.println("Hi");
 System.out.println();
 
 int a = 5;
+int b=56;
 		
 	}
 
